@@ -1,0 +1,16 @@
+{
+  "name": "pull-collect-promise",
+  "version": "0.0.0",
+  "description": "Pull-stream sink that collects values into an array then returns a promise.",
+  "author": "Jamen Marz <jamenmarz@gmail.com>",
+  "main": "lib/pull-collect-promise.js",
+  "keywords": [
+    "pull-stream"
+  ],
+  "dependencies": {
+    "pull-stream": "^3.6.7"
+  },
+  "devDependencies": {
+    "tape": "^4.9.0"
+  }
+}
